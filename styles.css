@@ -1,0 +1,28 @@
+#cityName{
+    border-radius: 75px 0px 0px 68px;
+    width: 200px !important;
+}
+
+#heading{
+    color:#e96e50;
+}
+
+#searchArea{
+    /* 
+    padding-left: 257px; */
+    padding: 56px;
+    background: #e67d50;
+}
+
+#btnSearch{
+    border-color: black;
+    border-left: 0px;
+    height: inherit;
+    border-radius: 0px 14px 13px 0px;
+    background: #e67d50;
+}
+
+footer{
+    margin-top: 160px;
+}
+
